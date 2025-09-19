@@ -1,0 +1,1 @@
+{"name": "18-we-need-a-very-simple-privacy--firebase-185104", "spec": {"port": 8000, "containers": [{"image": "", "name": "18-we-need-a-very-simple-privacy--firebase-185104", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
